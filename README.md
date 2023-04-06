@@ -9,10 +9,6 @@
  
 
 ![GitHub metrics](https://metrics.lecoq.io/3azizo)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=3azizo)  
-
-![Profile views](https://gpvc.arturio.dev/3azizo)  
 <!--
 **3azizo/3azizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
