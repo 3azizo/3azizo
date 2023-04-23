@@ -1,8 +1,8 @@
 
 ### Hi there 👋, my name is Mohamed
-
+<!--
 <a href="https://app.daily.dev/3azizo"><img src="https://api.daily.dev/devcards/98e57ac7e0084cbeb8738bb6dd87270f.png?r=8sl" width="400" alt="Mohamed Reda Abdelaziz Ahmed's Dev Card"/></a>
-  
+-->  
 <!--
 **3azizo/3azizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
